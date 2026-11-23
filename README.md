@@ -9,9 +9,9 @@ Manual or disconnected inventory tracking often causes stock mismatches, acciden
 ## Group Members
 | Name | Student ID | Primary Responsibility |
 | :--- | :--- | :--- |
-| Member 1 (Your Name) | ID-1 | System Architecture, Authentication, Role Control, Product & Stock Management |
-| Member 2 | ID-2 | Sales Workflow, Stock Deduction Logic, Search & Filtering |
-| Member 3 | ID-3 | Dashboard & Summary Reports, SRS & Documentation, Testing |
+| Member 1 (Wahid Ridwan) | ID-20234203090| System Architecture, Authentication, Role Control, Product & Stock Management |
+| Member 2 (Imtiyaj Bin Islam) | ID-20234203046 | Sales Workflow, Stock Deduction Logic, Search & Filtering |
+| Member 3 (Md.Tamim Dari)| ID-20234203048 | Dashboard & Summary Reports, SRS & Documentation, Testing |
 
 ## Technology Stack
 - **Frontend:** [e.g., HTML, CSS, JavaScript / React / Tailwind CSS]
